@@ -1,3 +1,12 @@
+
+backend repo: https://github.com/Rajeswarandev5/employee-management-system-server
+
+demo: https://employee-management-system-server-orcin.vercel.app/
+
+frontend repo: https://github.com/Rajeswarandev5/employee-management-system-client/tree/master
+
+demo:https://employee-management-system-client-one.vercel.app/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
